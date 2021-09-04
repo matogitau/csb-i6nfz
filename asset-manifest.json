@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://matogitau.github.io/csb-i6nfz/static/css/main.b22ab9a6.chunk.css",
+    "main.js": "https://matogitau.github.io/csb-i6nfz/static/js/main.2772403d.chunk.js",
+    "main.js.map": "https://matogitau.github.io/csb-i6nfz/static/js/main.2772403d.chunk.js.map",
+    "runtime-main.js": "https://matogitau.github.io/csb-i6nfz/static/js/runtime-main.180259a4.js",
+    "runtime-main.js.map": "https://matogitau.github.io/csb-i6nfz/static/js/runtime-main.180259a4.js.map",
+    "static/js/2.04b24352.chunk.js": "https://matogitau.github.io/csb-i6nfz/static/js/2.04b24352.chunk.js",
+    "static/js/2.04b24352.chunk.js.map": "https://matogitau.github.io/csb-i6nfz/static/js/2.04b24352.chunk.js.map",
+    "index.html": "https://matogitau.github.io/csb-i6nfz/index.html",
+    "static/css/main.b22ab9a6.chunk.css.map": "https://matogitau.github.io/csb-i6nfz/static/css/main.b22ab9a6.chunk.css.map",
+    "static/js/2.04b24352.chunk.js.LICENSE.txt": "https://matogitau.github.io/csb-i6nfz/static/js/2.04b24352.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.180259a4.js",
+    "static/js/2.04b24352.chunk.js",
+    "static/css/main.b22ab9a6.chunk.css",
+    "static/js/main.2772403d.chunk.js"
+  ]
+}
